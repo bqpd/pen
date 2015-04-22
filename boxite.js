@@ -1,7 +1,7 @@
-window.interstitial_compile = function() {
-$(window).ready(function() {
+window.boxite = {}
 
-interstitial = window.interstitial;
+window.boxite.compile = function(interstitial) {
+$(window).ready(function() {
 
 var newlines = / *\n */g;
 var paragraphs = /\n *\n/g;
