@@ -7,11 +7,11 @@ header: {
 
 content: [
 
-  "Fewer than <strong>10% of junior high schools</strong> in Ghana contain laboratory equipment for teaching science. The situation is similar in many of Africa's <strong>10 million schools</strong>.",
+  "Fewer than *10% of junior high schools* in Ghana contain laboratory equipment for teaching science. The situation is similar in many of Africa's *10 million schools*.",
 
-  "The Practical Education Network (PEN) empowers teachers around the world to engage their students in hands-on science and real world design projects. <strong>We emphasize solving the challenges of STEM education in the developing world</strong> such as large class sizes, scarce material resources, and the novelty of interactive pedagogies.",
+  "The Practical Education Network (PEN) empowers teachers around the world to engage their students in hands-on science and real world design projects. *We emphasize solving the challenges of STEM education in the developing world* such as large class sizes, scarce material resources, and the novelty of interactive pedagogies.",
 
-  "PEN offers a series of workshops where STEM trainers learn, design, and share hands-on activities which complement the national curriculum and are created from <strong>low-cost</strong> and <strong>locally available</strong> materials.",
+  "PEN offers a series of workshops where STEM trainers learn, design, and share hands-on activities which complement the national curriculum and are created from *low-cost* and *locally available* materials.",
 
 
   "# Our projects",
